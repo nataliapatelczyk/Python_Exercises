@@ -1,2 +1,2 @@
 # Python_Exercises
-The aim of this file is to document my development as a python programmer.
+The aim of this repository is to document my self-development as a Python programmer.
